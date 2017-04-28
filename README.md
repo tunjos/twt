@@ -17,10 +17,14 @@ Social Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a
 Screenshots
 ----------
 
-![scr_1]![scr_2]![scr_3]
-![scr_4]![scr_5]![scr_6]
-![scr_7]![scr_8]
-
+<img src="screenshots/scr_nav.png" width="48">
+<img src="screenshots/scr_projects.png" width="48">
+<img src="screenshots/scr_tasklists.png" width="48">
+<img src="screenshots/scr_products.png" width="48">
+<img src="screenshots/scr_happiness.png" width="48">
+<img src="screenshots/scr_team.png" width="48">
+<img src="screenshots/scr_contact.png" width="48">
+<img src="screenshots/scr_uptime.png" width="150">
 
 Architecture
 ----------
@@ -31,10 +35,10 @@ Teamwork Together is built using the MVP - Model View Presenter Pattern.
 API's Used
 ----------
 
-https://[your_site].teamwork.com/me.json  
-https://[your_site].teamwork.com/projects.json  
-https://[your_site].teamwork.com/projects/{project_id}/tasklists.json  
-https://[your_site].teamwork.com/tasklists/{id}/tasks.json  
+**https://[your_site].teamwork.com/me.json**  
+**https://[your_site].teamwork.com/projects.json**  
+**https://[your_site].teamwork.com/projects/{project_id}/tasklists.json**  
+**https://[your_site].teamwork.com/tasklists/{id}/tasks.json**  
 
 Configuring
 --------
@@ -81,12 +85,3 @@ Test Summary will be generated in the **app/build/reports/androidTests/connected
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-[scr_1]: screenshots/scr_nav.png
-[scr_2]: screenshots/scr_projects.png
-[scr_3]: screenshots/scr_tasklists.png
-[scr_4]: screenshots/scr_products.png
-[scr_5]: screenshots/scr_happiness.png
-[scr_6]: screenshots/scr_team.png
-[scr_7]: screenshots/scr_contact.png
-[scr_8]: screenshots/scr_uptime.png
