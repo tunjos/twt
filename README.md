@@ -10,7 +10,7 @@ APK Download
 
 Info
 --------
-Teamwork Together Handcrafted remotely by Tunji Olu-Taiwo http://www.tunjos.co using <a href="https://www.teamwork.com/project-management-software" title="Teamwork Projects">Teamwork Projects</a>.
+Teamwork Together Handcrafted remotely by Tunji Olu-Taiwo http://www.tunjos.co using <a href="https://www.teamwork.com/project-management-software" title="Teamwork Projects">Teamwork Projects</a>.  
 The Teamwork Logo is a property of <a href="https://www.teamwork.com/" title="Teamwork">Teamwork.com</a>
 Social Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
 
@@ -18,6 +18,7 @@ Screenshots
 ----------
 
 <img src="screenshots/scr_nav.png" width="250"> <img src="screenshots/scr_projects.png" width="250"> <img src="screenshots/scr_tasklists.png" width="250"> <img src="screenshots/scr_products.png" width="250"> <img src="screenshots/scr_happiness.png" width="250"> <img src="screenshots/scr_team.png" width="250"> <img src="screenshots/scr_contact.png" width="250"> <img src="screenshots/scr_uptime.png" width="500">
+
 
 Architecture
 ----------
