@@ -17,14 +17,7 @@ Social Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a
 Screenshots
 ----------
 
-<img src="screenshots/scr_nav.png" width="48">
-<img src="screenshots/scr_projects.png" width="48">
-<img src="screenshots/scr_tasklists.png" width="48">
-<img src="screenshots/scr_products.png" width="48">
-<img src="screenshots/scr_happiness.png" width="48">
-<img src="screenshots/scr_team.png" width="48">
-<img src="screenshots/scr_contact.png" width="48">
-<img src="screenshots/scr_uptime.png" width="150">
+<img src="screenshots/scr_nav.png" width="250"> <img src="screenshots/scr_projects.png" width="250"> <img src="screenshots/scr_tasklists.png" width="250"> <img src="screenshots/scr_products.png" width="250"> <img src="screenshots/scr_happiness.png" width="250"> <img src="screenshots/scr_team.png" width="250"> <img src="screenshots/scr_contact.png" width="250"> <img src="screenshots/scr_uptime.png" width="150">
 
 Architecture
 ----------
