@@ -6,7 +6,7 @@ Teamwork Together
 
 APK Download
 --------
-[**Teamwork Together Apk**: (v1.0.0)](apk/Teamwork_Together_1.0.0.apk)
+[**Teamwork Together Apk**: (v1.0.0)](apk/Teamwork_Together_v1.0.0.apk)
 
 Info
 --------
