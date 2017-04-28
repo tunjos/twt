@@ -31,10 +31,10 @@ Teamwork Together is built using the MVP - Model View Presenter Pattern.
 API's Used
 ----------
 
-https://[your_site].teamwork.com/me.json
-https://[your_site].teamwork.com/projects.json
-https://[your_site].teamwork.com/projects/{project_id}/tasklists.json
-https://[your_site].teamwork.com/tasklists/{id}/tasks.json
+https://[your_site].teamwork.com/me.json  
+https://[your_site].teamwork.com/projects.json  
+https://[your_site].teamwork.com/projects/{project_id}/tasklists.json  
+https://[your_site].teamwork.com/tasklists/{id}/tasks.json  
 
 Configuring
 --------
